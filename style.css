@@ -1,0 +1,32 @@
+#SiteHeader {
+    color: firebrick;
+    margin: 5%;
+}
+
+#LoginForm {
+    margin: 10%;
+}
+
+#AccountRegistration {
+    margin: 10%;
+}
+
+.ProfileBio {
+    margin: 10%;
+}
+
+#errorCode {
+    margin: 10%;
+}
+
+#redirectLink {
+    margin: 10%;
+}
+
+.addAStore {
+    margin-left: 10%;
+}
+
+#profileBody {
+    background-color: #c7c6c6;
+}
